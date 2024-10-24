@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CO2103S2</string>
+    <string name="order_now">Order Now</string>
+    <string name="place_order">Please Order</string>
+</resources>
